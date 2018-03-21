@@ -5,12 +5,12 @@
       <![CDATA[testA]]>
     </line>
   </reporter-output>
-  <suite name="Suite" duration-ms="115" started-at="2018-03-10T22:11:05Z" finished-at="2018-03-10T22:11:06Z">
+  <suite name="Suite" duration-ms="32" started-at="2018-03-17T14:46:26Z" finished-at="2018-03-17T14:46:26Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="115" started-at="2018-03-10T22:11:05Z" finished-at="2018-03-10T22:11:06Z">
+    <test name="Test" duration-ms="32" started-at="2018-03-17T14:46:26Z" finished-at="2018-03-17T14:46:26Z">
       <class name="qsp.DemoA">
-        <test-method status="PASS" signature="testA()[pri:0, instance:qsp.DemoA@6108b2d7]" name="testA" duration-ms="15" started-at="2018-03-11T03:41:06Z" finished-at="2018-03-11T03:41:06Z">
+        <test-method status="PASS" signature="testA()[pri:0, instance:qsp.DemoA@6108b2d7]" name="testA" duration-ms="0" started-at="2018-03-17T20:16:26Z" finished-at="2018-03-17T20:16:26Z">
           <reporter-output>
             <line>
               <![CDATA[testA]]>
